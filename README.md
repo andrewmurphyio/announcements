@@ -9,7 +9,7 @@ Announcements and events associated with the [W3C Credentials CG](https://w3c-cc
 
 ### Weekly CCG Call
 
-Weekly commmunity group call on Tuesdays: Detais:
+Weekly commmunity group call on Tuesdays: Details:
 
 - Meeting Page: [https://w3c-ccg.github.io/](https://w3c-ccg.github.io/)
 - Archives: [https://github.com/w3c-ccg/meetings](https://github.com/w3c-ccg/meetings)
